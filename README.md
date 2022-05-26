@@ -1,4 +1,4 @@
-# 🚀 Rocketseat Explorer - D4 - Creating a Layout
+# 🚀 Rocketseat Explorer - D4 - Challenge: Creating a Layout
 
 - This challenge was part of Rocketseat's Explorer program and made me copy the exact same website layout as the figma prototype.
 
